@@ -1,0 +1,8258 @@
+nohup: ignoring input
+Generating data
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+
+PAR.OPTIMIZE LBFGS
+Starting iteration 1
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41282912256.0 238.27444458
+p_ratio 173257825.986
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+Loadning alpha
+ trial step 2
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 3
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 2
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41282929021.9 1061570159.52
+p_ratio 38.8885545167
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 3
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41282950538.5 906644573.83
+p_ratio 45.5337755611
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 4
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41282981276.0 1215745040.9
+p_ratio 33.9569398906
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 5
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283058780.2 944066474.015
+p_ratio 43.7289745124
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 6
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283149702.4 407299423.465
+p_ratio 101.358232602
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 7
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283186079.8 459562641.578
+p_ratio 89.8314665832
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 8
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283242804.7 376956102.842
+p_ratio 109.517374818
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 9
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283309540.6 503401195.463
+p_ratio 82.0087634132
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 10
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283452881.8 267975686.853
+p_ratio 154.056710766
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 11
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283500344.9 196717493.576
+p_ratio 209.861866346
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 12
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283485186.2 344668191.646
+p_ratio 119.777473486
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 13
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283537134.5 128686760.514
+p_ratio 320.806405955
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 14
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283576093.7 288994651.915
+p_ratio 142.852387822
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 15
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283677453.3 331186268.049
+p_ratio 124.653952884
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 16
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283780998.7 157371227.305
+p_ratio 262.333729651
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 17
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283818733.2 124881072.175
+p_ratio 330.585075978
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 18
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283829955.6 277969346.581
+p_ratio 148.519361805
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 19
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283875350.5 244903635.687
+p_ratio 168.57191701
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 20
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283902240.5 95658861.5751
+p_ratio 431.574258366
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 21
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283894252.8 86482657.459
+p_ratio 477.366161792
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 22
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283895019.0 232429633.77
+p_ratio 177.618896306
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 23
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283906547.1 224966388.211
+p_ratio 183.511443089
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 24
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283915802.2 298134752.466
+p_ratio 138.474013716
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 25
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283926452.5 118921284.364
+p_ratio 347.153385312
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 26
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283925038.5 104263714.855
+p_ratio 395.956782243
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 27
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283921375.7 197609902.979
+p_ratio 208.916257502
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 28
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41283995395.6 182117155.186
+p_ratio 226.689217462
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 29
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41284380114.7 72203287.1588
+p_ratio 571.779786479
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 30
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41284537612.3 178605698.842
+p_ratio 231.149050002
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 31
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41284912654.4 294132229.154
+p_ratio 140.361744013
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 32
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41285571722.2 276129922.908
+p_ratio 149.51502281
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 33
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41286182767.0 89153415.4336
+p_ratio 463.091431397
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 34
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41286359650.3 79854074.5694
+p_ratio 517.022579911
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 35
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41286292657.1 85214398.5192
+p_ratio 484.499020993
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 36
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41286312088.0 148600926.447
+p_ratio 277.833477054
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 37
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41286473906.6 237666087.583
+p_ratio 173.716302256
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 38
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41286811263.8 115495592.274
+p_ratio 357.4752114
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 39
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41287019514.5 53958424.8159
+p_ratio 765.163543143
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 40
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41287135116.3 109198999.827
+p_ratio 378.090780882
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 41
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41287343171.2 117888263.405
+p_ratio 350.224373306
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 42
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41287568418.5 290686967.827
+p_ratio 142.034466585
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 43
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41288123744.4 472937978.753
+p_ratio 87.3013494354
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 2
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 44
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41288574379.6 465090159.635
+p_ratio 88.7754202584
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 45
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41289456837.2 801768414.533
+p_ratio 51.4979838178
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 2
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 3
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 46
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41289838999.1 556438569.76
+p_ratio 74.2037688309
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 2
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 3
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 47
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41290106318.5 1141045893.91
+p_ratio 36.1861924563
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 2
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 3
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 48
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41290677004.2 1559786039.2
+p_ratio 26.472013447
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 2
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 3
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 4
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 49
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41291071004.3 823515411.867
+p_ratio 50.140010022
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 2
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 3
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 4
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 5
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 6
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 7
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 8
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 9
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 10
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+ Line search failed
+
+ Retrying...
+Loadning f_new
+max_m,max_g= 41291071004.3 4.71231126785
+p_ratio 8762381909.28
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+Loadning alpha
+ trial step 2
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+Loadning alpha
+ trial step 3
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+Loadning alpha
+ trial step 4
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+Loadning alpha
+ trial step 5
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+Loadning alpha
+ trial step 6
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+Loadning alpha
+ trial step 7
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+Loadning alpha
+ trial step 8
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+ trial step 9
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+
+Starting iteration 50
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing SRVM
+Computing search direction
+Computing step length
+Loadning f_new
+max_m,max_g= 41291083214.8 8946679.80619
+p_ratio 4615.24097311
+ trial step 1
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Loadning alpha
+Loadning f_try
+Loadning s_new
+

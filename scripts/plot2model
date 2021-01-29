@@ -1,0 +1,185 @@
+#!/usr/bin/env python
+#
+#   Seisflow style executable python script.
+#
+#   Yiyu Ni
+#   Dec. 7, 2020 
+#
+#   plot2model:
+#   Plot binary model.  
+#
+#   Syntex
+#   plot2model -h: for help
+#   plot2model --nproc 2
+#              --coordir='../model_init'
+#              --modeldir='./' 
+#              --para vp vs
+#
+################################################
+    
+
+# Import system modules
+from os.path import getsize, join
+from shutil import copyfile
+import matplotlib
+matplotlib.rcParams['text.usetex'] = True
+matplotlib.rcParams['text.latex.unicode'] = True
+import matplotlib.pyplot as plt
+# Import numpy
+import numpy as np
+import warnings
+# Local imports
+from seisflows.tools.tools import iterable
+#import obspy
+import os
+import argparse
+
+def getargs():
+    """ This function run argparse (see
+    https://docs.python.org/2/howto/argparse.html) to process the arguments
+    given by the user along with sfresume. Define default behaviour if they are
+    not given and help message when sfresume -h is run
+    """
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument('--nproc', nargs='?', default=1,
+                        help="number of processors")
+
+    parser.add_argument('--coordir', nargs='?', default='../model_init/',
+                        help="coordir contain x/z.bin")
+
+    parser.add_argument('--modeldir', nargs='?', default='./',
+                        help="model contain model .bin")
+
+    parser.add_argument('--para', nargs='+',  default=['vp', 'vs'],
+                        help="parameter to plot")
+    
+    parser.add_argument('--srcdir', nargs='?',  default=None,
+                        help="source dir")
+    
+    parser.add_argument('--recdir', nargs='?',  default=None,
+                        help="receiver dir")
+    
+    parser.add_argument('--nsrc', nargs='?',
+                        help="number of source")
+
+    parser.add_argument('--topo', nargs='?', default = None,
+                        help="topography file")
+
+
+    
+    return parser.parse_args()
+
+def read_slice(path, parameters, iproc):
+    """ Reads SPECFEM model slice(s)
+        Such as, for example : proc000005_vp.bin
+        In that specific case it would be : read_slice(path, 'vp', 5)
+    """
+    vals = []
+    for key in parameters:
+        filename = '%s/proc%06d_%s.bin' % (path, iproc, key)
+        vals += [_read(filename)]
+    return vals
+
+def _read(filename):
+    """ Reads Fortran style binary data into numpy array
+    """
+    nbytes = getsize(filename)
+    with open(filename, 'rb') as file:
+        # read size of record
+        file.seek(0)
+        n = np.fromfile(file, dtype='int32', count=1)[0]
+        if n == nbytes-8:
+            file.seek(4)
+            data = np.fromfile(file, dtype='float32')
+            return data[:-1]
+        else:
+            file.seek(0)
+            data = np.fromfile(file, dtype='float32')
+            return data
+
+def readStations(path):
+    """ Read specfem2d STATIONS file
+    """
+    with warnings.catch_warnings():  # Suppress warning about single precision
+        warnings.simplefilter("ignore")
+        stats = np.genfromtxt(path, usecols=(0, 2, 3), dtype=None)
+    temp = [list(u) for u in stats]
+    temp = map(list, zip(*temp))
+    return temp[:][0], np.array(temp[:][1]), np.array(temp[:][2])
+
+def readSources(path, NSRC):
+    """Read specfem2d SOURCE file with standard 14 parameter
+    """
+    xs = []
+    zs = []
+    for i in range(NSRC):
+        data = np.genfromtxt(path + "/SOURCE_" + str(i).zfill(6))
+        temp = [list(u) for u in [data[:,2]]]
+        temp = map(list, zip(*temp))
+        xs += temp[1]
+        zs += temp[2]
+    return xs, zs
+
+if __name__ == "__main__":
+
+    args = getargs()
+    NPROC = int(args.nproc)
+    COORDIR = args.coordir
+    f = os.listdir(COORDIR)
+    DATA = {}
+    for PROC in range(NPROC):
+        for COORD in ['x', 'z']:
+            try:
+                if PROC ==0:
+                    DATA[COORD] = read_slice(path = COORDIR, parameters = [COORD], iproc = PROC)
+                else:
+                    DATA[COORD][0] = np.append(DATA[COORD][0], read_slice(path = COORDIR, parameters = [COORD], iproc = PROC))
+            except:
+                print("Check coordinate binary model at PATH:" + COORDIR)
+                raise Exception
+
+    PARS = args.para
+    MODELDIR = args.modeldir
+    
+    if args.recdir:
+        _, xStats, zStats = readStations(args.recdir + "/STATIONS")
+    if args.srcdir:
+        xSources, zSources = readSources(args.srcdir, NSRC = int(args.nsrc))
+
+    for PAR in PARS:
+        for PROC in range(NPROC):
+            try:
+                if PROC == 0:
+                    DATA[PAR] = read_slice(path = MODELDIR, parameters = [PAR], iproc = PROC)
+                else:
+                    DATA[PAR][0] = np.append(DATA[PAR][0], read_slice(path = MODELDIR, parameters = [PAR], iproc = PROC))
+            except:
+                print("Check model binary model at PATH:" + MODELDIR)
+                raise Exception
+
+        r = (max(DATA['x'][0]) - min(DATA['x'][0]))/(max(DATA['z'][0]) - min(DATA['z'][0]))
+        rx = r/np.sqrt(1 + r**2)
+        ry = 1/np.sqrt(1 + r**2)
+        plt.figure(figsize=(12, 6))
+
+
+        plt.tricontourf(DATA['x'][0], DATA['z'][0], DATA[PAR][0],125)
+        plt.axes().set_aspect(rx/(2*ry)) 
+        #plt.axis('image')
+        cbar = plt.colorbar(orientation='vertical')
+        cbar.set_label(r'$'+PAR+'$', fontsize=20, labelpad=10)
+        plt.set_cmap('bwr')
+        #plt.gca().invert_yaxis()
+        if args.recdir:
+            plt.scatter(xStats, zStats, color='k', marker='o',edgecolors='k',linewidths=1, s=18)
+        if args.srcdir:
+            plt.scatter(xSources, np.array(zSources), c='', marker='*', edgecolors='k',s=300, linewidths=1)        
+        plt.title(r'$' + PAR + '$', fontsize = 20)
+        plt.xlabel(r'$X/m$', fontsize = 20)
+        plt.ylabel(r'$Z/m$', fontsize = 20)
+        if args.topo:
+            interface = np.loadtxt(args.topo)
+            plt.plot(list(interface[:,0]), list(interface[:,1]),c = 'k')
+        plt.savefig(MODELDIR + "/" + PAR + ".png")
+        plt.close()

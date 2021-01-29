@@ -1,0 +1,99 @@
+#!/usr/bin/env python
+#
+#   Seisflow style executable python script.
+#
+#   Yiyu Ni
+#   Dec. 9, 2020 
+#
+#   bin2ascii:
+#   Convert SPECFEM binary model to ascii model.
+#
+################################################
+    
+
+#import obspy
+import os
+import argparse
+#Import system modules
+from os.path import getsize, join
+from shutil import copyfile
+import matplotlib.pyplot as plt
+
+# Import numpy
+import warnings
+import numpy as np
+
+# Local imports
+from seisflows.tools.tools import iterable
+
+
+def getargs():
+    """ This function run argparse (see
+    https://docs.python.org/2/howto/argparse.html) to process the arguments
+    given by the user along with sfresume. Define default behaviour if they are
+    not given and help message when sfresume -h is run
+    """
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument('--nproc', nargs='?',
+                        help="number of processors")
+
+    parser.add_argument('--dir', nargs='?', default='./',
+                        help="workingdir")
+    
+    return parser.parse_args()
+
+
+def read_slice(path, parameters, iproc):
+    """ Reads SPECFEM model slice(s)
+        Such as, for example : proc000005_vp.bin
+        In that specific case it would be : read_slice(path, 'vp', 5)
+    """
+    vals = []
+    for key in parameters:
+        filename = '%s/proc%06d_%s.bin' % (path, iproc, key)
+        vals += [_read(filename)]
+    return vals
+
+def _read(filename):
+    """ Reads Fortran style binary data into numpy array
+    """
+    nbytes = getsize(filename)
+    with open(filename, 'rb') as file:
+        # read size of record
+        file.seek(0)
+        n = np.fromfile(file, dtype='int32', count=1)[0]
+        if n == nbytes-8:
+            file.seek(4)
+            data = np.fromfile(file, dtype='float32')
+            return data[:-1]
+        else:
+            file.seek(0)
+            data = np.fromfile(file, dtype='float32')
+            return data
+
+if __name__ == "__main__":
+
+    args = getargs()
+
+    f = os.listdir(args.dir)
+    NPROC = int(args.nproc)
+    for PROC in range(NPROC):
+        DATA={}
+        for COORD in ['x', 'z']:
+            try:
+                DATA[COORD] = read_slice(path = args.dir, parameters = [COORD], iproc = PROC)
+            except:
+                print("Check coordinate binary model at PATH:" + args.dir)
+                raise Exception
+
+        for PAR in ['rho', 'vp', 'vs']:
+            try:
+                DATA[PAR] = read_slice(path = args.dir, parameters = [PAR], iproc = PROC)
+            except:
+                print("Check model binary model at PATH:" + args.dir)
+                raise Exception
+        line = ''
+        with open(args.dir + 'proc' + str(PROC).zfill(6) + '_rho_vp_vs.dat', 'w+') as f:
+            for i in range(len(DATA['x'][0])):
+                f.write("%e %e %e %e %e\n" % (DATA['x'][0][i],DATA['z'][0][i],DATA['rho'][0][i],DATA['vp'][0][i],DATA['vs'][0][i]))

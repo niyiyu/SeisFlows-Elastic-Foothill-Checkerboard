@@ -1,0 +1,72 @@
+#!/usr/bin/env python
+#
+#   Seisflow style executable python script.
+#
+#   Yiyu Ni
+#   Dec. 5, 2020 
+#
+#   ascii2bin:
+#   Convert SPECFEM ascii model to binary model.
+#
+################################################
+    
+
+import numpy as np
+import obspy
+import os
+import argparse
+
+def getargs():
+    """ This function run argparse (see
+    https://docs.python.org/2/howto/argparse.html) to process the arguments
+    given by the user along with sfresume. Define default behaviour if they are
+    not given and help message when sfresume -h is run
+    """
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument('--nproc', nargs='?',
+                        help="number of processors")
+
+    parser.add_argument('--dir', nargs='?', default='./',
+                        help="workingdir")
+    
+    return parser.parse_args()
+
+
+def write_slice(data, path, parameters, iproc):
+    """ Writes SPECFEM model slice
+    """
+    for key in parameters:
+        filename = '%s/proc%06d_%s.bin' % (path, iproc, key)
+        _write(data, filename)
+
+def _write(v, filename):
+    """ Writes Fortran style binary files--data are written as single precision
+        floating point numbers
+    """
+    n = np.array([4*len(v)], dtype='int32')
+    v = np.array(v, dtype='float32')
+
+    with open(filename, 'wb') as file:
+        n.tofile(file)
+        v.tofile(file)
+        n.tofile(file)
+
+if __name__ == "__main__":
+
+    args = getargs()
+
+    f = os.listdir(args.dir)
+    for i in range(int(args.nproc)):
+        try:
+            assert 'proc' + str(i).zfill(6)+ '_rho_vp_vs.dat' in f
+        except:
+            print("Check ascii model file.")
+            raise Exception
+        
+    for PROC in range(int(args.nproc)):
+        data = np.loadtxt('./proc'+ str(PROC).zfill(6)+ '_rho_vp_vs.dat')
+        i = 0
+        for par in ["x","z","rho","vp","vs"]:
+            write_slice(data[:,i],'./',[par],PROC)
+            i = i + 1

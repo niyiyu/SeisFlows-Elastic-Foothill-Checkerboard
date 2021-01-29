@@ -1,0 +1,202 @@
+
+title                           = foothill
+
+AXISYM                          = .false.
+
+
+SIMULATION_TYPE                 = 1   
+NOISE_TOMOGRAPHY                = 0   
+SAVE_FORWARD                    = .true.   
+
+UNDO_ATTENUATION                = .false.
+NT_DUMP_ATTENUATION             = 500
+
+NPROC                           = 1             
+partitioning_method             = 3              
+
+ngnod                           = 4              
+initialfield                    = .false.        
+add_Bielak_conditions           = .false.        
+
+MODEL                           = binary
+SAVE_MODEL                      = default
+
+ATTENUATION_VISCOELASTIC_SOLID  = .false.        
+ATTENUATION_PORO_FLUID_PART     = .false.        
+Q0                              =  1             
+freq0                           =  10            
+P_SV                            = .true.
+
+
+nt                              = 6000           
+deltat                          = 8.0d-4         
+NSTEP                           = 6000           
+DT                              = 8.0d-4         
+USER_T0                         = 0.0d0          
+time_stepping_scheme            = 1   
+
+ACOUSTIC_FORCING                = .false.
+
+
+NSOURCES                        = 1              
+force_normal_to_surface         = .false.        
+
+
+N_SLS                           = 2                      
+READ_VELOCITIES_AT_f0           = .false.
+
+
+seismotype                      = 1              
+USE_TRICK_FOR_BETTER_PRESSURE   = .false.
+NSTEP_BETWEEN_OUTPUT_SEISMOS    = 5000000        
+save_ASCII_seismograms          = .false.         
+save_binary_seismograms_single  = .true.         
+save_binary_seismograms_double  = .false.        
+SU_FORMAT                       = .true.        
+subsamp_seismos                 = 1              
+use_existing_STATIONS           = .false.
+nreceiversets                   = 1              
+anglerec                        = 0.d0           
+rec_normal_to_surface           = .false.        
+
+
+nrec                            =  410
+xdeb                            =  100.          
+zdeb                            =  10.          
+xfin                            =  24640.          
+zfin                            =  10.          
+record_at_surface_same_vertical = .true.        
+
+
+NSTEP_BETWEEN_OUTPUT_INFO      =  500            
+NSTEP_BETWEEN_OUTPUT_IMAGES     = 500            
+cutsnaps                        = 1.             
+
+
+output_color_image              = .false.         
+imagetype_JPEG                  = 2              
+factor_subsample_image          = 1              
+USE_CONSTANT_MAX_AMPLITUDE      = .false.
+CONSTANT_MAX_AMPLITUDE_TO_USE   = 1.17d4
+POWER_DISPLAY_COLOR             = 0.50d0         
+DRAW_SOURCES_AND_RECEIVERS      = .true.         
+DRAW_WATER_IN_BLUE              = .true.         
+USE_SNAPSHOT_NUMBER_IN_FILENAME = .false.        
+
+
+output_postscript_snapshot      = .false.        
+imagetype_postscript            = 1              
+meshvect                        = .true.         
+modelvect                       = .false.        
+boundvect                       = .true.         
+interpol                        = .true.         
+pointsdisp                      = 6              
+subsamp_postscript              = 1              
+sizemax_arrows                  = 1.d0           
+US_LETTER                       = .false.        
+
+
+NSTEP_BETWEEN_OUTPUT_WAVE_DUMPS = 100            
+output_wavefield_dumps          = .false.        
+imagetype_wavefield_dumps       = 1              
+use_binary_for_wavefield_dumps  = .false.        
+
+output_grid_Gnuplot             = .true.        
+output_grid_ASCII               = .false.        
+output_energy                   = .false.        
+
+
+nbmodels                        = 1              
+
+
+
+
+
+
+1 1 2.7d3 2.60d3 1.5d3 0 0 9999 9999 0 0 0 0 0 0
+2 1 2.7d3 9.53d3 5.5d3 0 0 9999 9999 0 0 0 0 0 0
+
+TOMOGRAPHY_FILE                 = ./TOMO.XYZ
+
+
+read_external_mesh              = .false.
+
+
+PML_BOUNDARY_CONDITIONS         = .false.
+NELEM_PML_THICKNESS             = 3
+ROTATE_PML_ACTIVATE             = .false.
+ROTATE_PML_ANGLE                = 30.
+STACEY_ABSORBING_CONDITIONS     = .true.
+ADD_SPRING_TO_STACEY            = .false.
+
+
+ADD_PERIODIC_CONDITIONS         = .false.
+
+
+PERIODIC_HORIZ_DIST             = 0.3597d0
+
+PERIODIC_DETECT_TOL             = 3.3334d-6
+
+GPU_MODE                        = .true.
+
+
+
+
+
+mesh_file                       = ./DATA/Mesh_canyon/canyon_mesh_file   
+nodes_coords_file               = ./DATA/Mesh_canyon/canyon_nodes_coords_file   
+materials_file                  = ./DATA/Mesh_canyon/canyon_materials_file   
+free_surface_file               = ./DATA/Mesh_canyon/canyon_free_surface_file   
+absorbing_surface_file          = ./DATA/Mesh_canyon/canyon_absorbing_surface_file   
+CPML_element_file               = Elements_CPML_list  
+tangential_detection_curve_file = ./DATA/courbe_eros_nodes 
+
+
+
+
+
+interfacesfile                  = interface.dat
+
+
+xmin                            = 0.d0           
+xmax                            = 24930.d0          
+nx                              = 277             
+
+
+absorbbottom                    = .true.
+absorbright                     = .true.
+absorbtop                       = .false.
+absorbleft                      = .true.
+
+
+nbregions                       = 1              
+1  277  1 66 1
+
+
+NUMBER_OF_SIMULTANEOUS_RUNS		= 1
+BROADCAST_SAME_MESH_AND_MODEL   =.true.
+ATTENUATION_f0_REFERENCE        = 5.196152422706633      
+setup_with_binary_database      = 0
+ATTENUATION_VISCOELASTIC        = .false.        
+ATTENUATION_VISCOACOUSTIC       = .false.        
+USE_SOLVOPT                     = .false.
+Q0_poroelastic                  = 1
+freq0_poroelastic               = 10
+UNDO_ATTENUATION_AND_OR_PML     = .false.
+add_Bielak_conditions_bottom    = .false.
+add_Bielak_conditions_right     = .false.
+add_Bielak_conditions_top       = .false.
+add_Bielak_conditions_left      = .false.
+save_ASCII_kernels              = .false.
+NSTEP_BETWEEN_COMPUTE_KERNELS   = 1
+NO_BACKWARD_RECONSTRUCTION      = .false.
+K_MIN_PML                       = 1.d0
+K_MAX_PML                       = 1.d0
+damping_change_factor_acoustic  = 0.5d0
+damping_change_factor_elastic   = 1.d0
+PML_PARAMETER_ADJUSTMENT        = .false.
+OUTPUT_ENERGY                   = .false.
+NTSTEP_BETWEEN_OUTPUT_ENERGY    = 10
+COMPUTE_INTEGRATED_ENERGY_FIELD = .false.
+
+
