@@ -5,7 +5,7 @@ SeisFlows-Elastic-Foothill-Checkerboard
 
 Solvers and package required:
 
-- [SeisFlows](https://github.com/niyiyu2316/seisflows), see the doc for how to run this example.
+- Refer to [SeisFlows](https://github.com/Jiangwb/seisflows-devel) from Wenbin Jiang for running. You could also refer to docs in [SeisFlows](https://github.com/niyiyu/seisflows) from Yiyu Ni.
 - [SPECFEM 2D](https://github.com/geodynamics/specfem2d)
 
 See RESULT_Mute_Body_Wave_10Hz.pdf for results.
